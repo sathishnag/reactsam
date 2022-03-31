@@ -1,21 +1,20 @@
 {
-  "name": "react",
-  "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "name": "mui-editable-table-component",
+  "version": "1.0.1",
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@material-ui/core": "4.11.2",
-    "@material-ui/styles": "4.11.2",
-    "react": "17.0.0",
-    "react-dom": "17.0.0",
-    "react-scripts": "3.4.3"
+    "@material-ui/core": "3.9.3",
+    "classnames": "2.2.6",
+    "mui-editable-table": "0.3.3",
+    "mui-editable-table-component": "1.0.10",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "typescript": "3.8.3"
+    "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
